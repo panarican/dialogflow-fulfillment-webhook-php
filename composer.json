@@ -1,5 +1,5 @@
 {
-    "name": "eristemena/dialogflow-fulfillment-webhook-php",
+    "name": "panarican/dialogflow-fulfillment-webhook-php",
     "description": "Dialogflow Fulfillment Webhook v1 & v2",
     "keywords": [
         "Dialogflow",
@@ -20,8 +20,8 @@
     },
     "authors": [
         {
-            "name": "Eris Ristemena",
-            "email": "e.ristemena@gmail.com"
+            "name": "Efrain Lugo",
+            "email": "panarican@gmail.com"
         }
     ],
     "require-dev": {
